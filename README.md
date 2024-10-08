@@ -26,4 +26,4 @@ This project will be licensed under the [MIT License](LICENSE) upon release.
 
 ---
 
-Stay tuned for updates! We are excited to share our work with the community and contribute to advancements in agricultural technology.
+Stay tuned for updates! We are excited to share our work with the community and contribute to advancements in autonomous surface vessel technology.
