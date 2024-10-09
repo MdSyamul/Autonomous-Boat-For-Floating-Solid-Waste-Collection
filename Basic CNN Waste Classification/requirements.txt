@@ -1,61 +1,62 @@
-absl-py @ file:///C:/b/abs_14wchyjaia/croot/absl-py_1714140489450/work
+absl-py==2.1.0
 astunparse==1.6.3
 certifi==2024.8.30
 charset-normalizer==3.3.2
-contourpy @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/contourpy_1701817388761/work
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+contourpy==1.2.0
+cycler==0.11.0
 flatbuffers==24.3.25
-fonttools @ file:///C:/b/abs_f47gnfqnx0/croot/fonttools_1713551644747/work
+fonttools==4.51.0
 gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.66.2
-h5py @ file:///C:/b/abs_c4ha_1xv14/croot/h5py_1715094776210/work
+h5py==3.11.0
 idna==3.10
-joblib @ file:///C:/b/abs_f4b98l6lgk/croot/joblib_1718217224240/work
-keras @ file:///C:/b/abs_4aezuey7an/croot/keras_1723128692986/work
-kiwisolver @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/kiwisolver_1699476425777/work
+joblib==1.4.2
+keras==3.4.1
+kiwisolver==1.4.4
 libclang==18.1.1
 Markdown==3.7
-markdown-it-py @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markdown-it-py_1699473886965/work
+markdown-it-py==2.2.0
 MarkupSafe==2.1.5
 matplotlib==3.9.2
-mdurl @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mdurl_1699473506455/work
+mdurl==0.1.0
+mkl_fft==1.3.10
+mkl_random==1.2.7
 mkl-service==2.4.0
-mkl_fft @ file:///C:/b/abs_f55mv94vyg/croot/mkl_fft_1725370278455/work
-mkl_random @ file:///C:/b/abs_21ydbzdu8d/croot/mkl_random_1725370276095/work
-ml_dtypes @ file:///C:/b/abs_85u9dugzkl/croot/ml_dtypes_1722369135755/work
-namex @ file:///C:/b/abs_cdq28t3827/croot/namex_1715206998407/work
-numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp312-cp312-win_amd64.whl#sha256=becc06674317799ad0165a939a7613809d0bee9bd328a1e4308c57c39cacf08c
+ml_dtypes==0.4.0
+namex==0.0.7
+numpy==1.26.4
 opencv-python==4.10.0
 opencv-python-headless==4.10.0
 opt_einsum==3.4.0
-optree @ file:///C:/b/abs_8a_vruuh2r/croot/optree_1723069490274/work
-packaging @ file:///C:/b/abs_c3vlh0z4jw/croot/packaging_1720101866539/work
-pillow @ file:///C:/b/abs_32o8er3uqp/croot/pillow_1721059447598/work
-ply @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/ply_1699473999871/work
+optree==0.12.1
+packaging==24.1
+pillow==10.4.0
+pip==24.2
+ply==3.11
 protobuf==4.25.5
-pydot @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pydot_1699562534473/work
-Pygments @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pygments_1699474141968/work
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pydot==1.4.2
+Pygments==2.15.1
+pyparsing==2.4.7
 PyQt5==5.15.10
-PyQt5-sip @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pyqt-split_1699478669290/work/pyqt_sip
-python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+PyQt5-sip==12.13.0
+python-dateutil==2.9.0.post0
 requests==2.32.3
-rich @ file:///C:/b/abs_21nw9z7xby/croot/rich_1720637504376/work
-scikit-learn @ file:///C:/b/abs_aajc9f7v6r/croot/scikit-learn_1722067652693/work/dist/scikit_learn-1.5.1-cp312-cp312-win_amd64.whl#sha256=96ed6defb86c154d2ff360afdbf0c37c33c4c729d4a15c9d8ada0b70fd817816
-scipy @ file:///C:/b/abs_efv75hqhju/croot/scipy_1717521501389/work/dist/scipy-1.13.1-cp312-cp312-win_amd64.whl#sha256=b29dba691773ea983857b31cad894f31623348583937b6f03783facfd7abc734
+rich==13.7.1
+scikit-learn==1.5.1
+scipy==1.13.1
 setuptools==72.1.0
-sip @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/sip_1699475590677/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+sip==6.7.12
+six==1.16.0
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
 tensorflow==2.17.0
 tensorflow-intel==2.17.0
 termcolor==2.4.0
-threadpoolctl @ file:///C:/b/abs_def0dwqlft/croot/threadpoolctl_1719407816649/work
-tornado @ file:///C:/b/abs_7bua0304mj/croot/tornado_1718740122405/work
-typing_extensions @ file:///C:/b/abs_0as9mdbkfl/croot/typing_extensions_1715268906610/work
-unicodedata2 @ file:///C:/b/abs_b6apldlg7y/croot/unicodedata2_1713212998255/work
+threadpoolctl==3.5.0
+tornado==6.4.1
+typing_extensions==4.11.0
+unicodedata2==15.1.0
 urllib3==2.2.3
 Werkzeug==3.0.4
 wheel==0.44.0
