@@ -10,14 +10,14 @@ To run the training script, follow these steps:
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
     ```bash
-    git clone https://github.com/MdSyamul/lettuce-disease-detection.git
+    git clone https://github.com/MdSyamul/Floating-Debris-Detection.git
     ```
     
 2. **Set Up a Virtual Environment**: It’s recommended to use Python 3.12.3 for compatibility.
 
     ```bash
-    python3 -m venv lettuce_env
-    source lettuce_env/bin/activate  # On Windows use: lettuce_env\Scripts\activate
+    python3 -m venv floating_waste_env
+    source floating_waste_env/bin/activate  # On Windows use: lettuce_env\Scripts\activate
     ```
 
 3. **Install PyTorch**: Ensure you install a version of PyTorch compatible with your CUDA version. Follow the instructions at [PyTorch's official installation guide](https://pytorch.org/get-started/locally/) to install the correct version.
@@ -50,7 +50,7 @@ The following plots show the training and validation loss over 120 epochs, as we
 ### Inference Examples
 Below are sample predictions made by the model on lettuce disease images. The bounding boxes highlight the areas identified as disease-affected.
 
-![Sample Predictions](./train_batch5042.jpg)
+![Sample Predictions](./train_batch9962.jpg)
 
 These results demonstrate the model's ability to detect and classify multiple disease instances within a single image, aiding in early detection for agricultural applications.
 
