@@ -1,4 +1,4 @@
-# Floating-Debris-Classification
+# Floating Debris Detection
 Welcome to the Floating Debris Detection repository! The Floating Debris Detection project is a part of our Autonomous Boat project, aims to provide an automated solution for solid floating waste identification, collecting in timely before they pollute the river.
 
 # Project Overview
