@@ -41,23 +41,23 @@ The following plots show the training and validation loss over 120 epochs, as we
 
 ![Training Results](./results.png)
 
-- **Box Loss**: The reduction in the bounding box loss over time indicates that the model is learning to detect lettuce diseases more accurately.
+- **Box Loss**: The reduction in the bounding box loss over time indicates that the model is learning to detect floating wastes more accurately.
 - **Classification Loss**: The decreasing classification loss shows that the model is improving in identifying the correct class for each detection.
 - **DFL Loss**: This tracks the distribution focal loss, and the decline shows better focus on relevant regions.
 - **Precision & Recall**: These metrics show how well the model identifies true positive cases versus false positives and negatives, improving over time.
 - **mAP**: The increasing mAP values, both for IoU thresholds of 50% and 50-95%, demonstrate the model's performance across various intersection over union thresholds.
 
 ### Inference Examples
-Below are sample predictions made by the model on lettuce disease images. The bounding boxes highlight the areas identified as disease-affected.
+Below are sample predictions made by the model on floating wastes images. The bounding boxes highlight the areas identified as floating wastes.
 
 ![Sample Predictions](./train_batch9962.jpg)
 
-These results demonstrate the model's ability to detect and classify multiple disease instances within a single image, aiding in early detection for agricultural applications.
+These results demonstrate the model's ability to detect and classify multiple waste instances within a single image.
 
 By reviewing these results, improvements in both accuracy and precision can be identified for future iterations.
 
 ## Contributing
-Contributions to the Lettuce Disease Detection project are welcome. If you have any suggestions or improvements, please create a pull request or open an issue.
+Contributions to the Floating Waste Detection project are welcome. If you have any suggestions or improvements, please create a pull request or open an issue.
 
 ## Funding and Acknowledgments
 
